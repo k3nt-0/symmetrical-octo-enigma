@@ -1,5 +1,10 @@
 # symmetrical-octo-enigma
 
+Outpacing AI and Moore's Law:
+(1) https://youtu.be/3C2UHpnIEwI
+(2) https://youtu.be/CQN3CHIAMdM
+(3) https://youtu.be/5t7xXHRjekE
+(4) https://youtu.be/yycrCIqGQ28
 
 Python syntax: [w3schools.com](https://www.w3schools.com/python/python_syntax.asp)
 
