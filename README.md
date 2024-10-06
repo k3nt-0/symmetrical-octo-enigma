@@ -8,7 +8,7 @@ Outpacing AI and Moore's Law:
 
 - (3) [Discrete Time, First Person Shooters](https://youtu.be/zwT6Cp5di8U?si=DloBv5EKr_M7S920)
 
-- (4) [Sports, Reprogramming Your Mind](https://youtu.be/GcKfYVQfP9s?si=A-X7ECcb56rjx0Hg)
+- (4) [Sports, Reprogramming Your Mind](https://youtu.be/Xs1sERWtgYE)
 
 PHYSICS : [youtube@DrPhysicsA](https://www.youtube.com/@DrPhysicsA/playlists?view=1&sort=dd&shelf_id=8)
 NOTE - u/vegarsc: "If you plan to do the playlists all the way from the beginning in the "correct order", I think it is GCSE, A level, Classical, El & Mag., Atomic and then Nuclear."
