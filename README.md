@@ -10,18 +10,16 @@ Outpacing AI and Moore's Law:
 
 - (4) [Sports, Reprogramming Your Mind](https://youtu.be/GcKfYVQfP9s?si=A-X7ECcb56rjx0Hg)
 
+PHYSICS : [youtube@DrPhysicsA](https://www.youtube.com/@DrPhysicsA/playlists?view=1&sort=dd&shelf_id=8)
+NOTE - u/vegarsc: "If you plan to do the playlists all the way from the beginning in the "correct order", I think it is GCSE, A level, Classical, El & Mag., Atomic and then Nuclear."
 
+MATH : [Math Boot Camp for Engineers (FREE)](https://mitxonline.mit.edu/courses/course-v1:MITxT+10.MBCx/)
 
 Python syntax: [w3schools.com](https://www.w3schools.com/python/python_syntax.asp)
 
 Binary : [new-the-world-of-the-internet-handouts.pdf (cmu.edu)](https://www.cmu.edu/gelfand/lgc-educational-media/digital-education-modules/dem-documents/new-the-world-of-the-internet-handouts.pdf)
 
 Signed, unsigned, 2’s complement: [Signed Binary Numbers and Two's Complement Numbers (electronics-tutorials.ws)](https://www.electronics-tutorials.ws/binary/signed-binary-numbers.html)
-
-PHYSICS : [youtube@DrPhysicsA](https://www.youtube.com/@DrPhysicsA/playlists?view=1&sort=dd&shelf_id=8)
-NOTE - u/vegarsc: "If you plan to do the playlists all the way from the beginning in the "correct order", I think it is GCSE, A level, Classical, El & Mag., Atomic and then Nuclear."
-
-MATH : [Math Boot Camp for Engineers (FREE)](https://mitxonline.mit.edu/courses/course-v1:MITxT+10.MBCx/)
 
 Combinational vs sequential: [Combinational and Sequential Circuits - GeeksforGeeks](https://www.geeksforgeeks.org/combinational-and-sequential-circuits/)
 
