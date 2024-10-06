@@ -9,6 +9,8 @@ Outpacing AI and Moore's Law:
 
 (4) [Sports, Reprogramming Your Mind](https://youtu.be/GcKfYVQfP9s?si=A-X7ECcb56rjx0Hg)
 
+
+
 Python syntax: [w3schools.com](https://www.w3schools.com/python/python_syntax.asp)
 
 Binary : [new-the-world-of-the-internet-handouts.pdf (cmu.edu)](https://www.cmu.edu/gelfand/lgc-educational-media/digital-education-modules/dem-documents/new-the-world-of-the-internet-handouts.pdf)
