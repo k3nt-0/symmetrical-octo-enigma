@@ -2,8 +2,11 @@
 
 Outpacing AI and Moore's Law:
 (1) [Introduction to ANSI-C and GCC](https://youtu.be/3C2UHpnIEwI?si=VwP1_ccS0sRNPpqL)
+
 (2) [Hardware/Software](https://youtu.be/CQN3CHIAMdM?si=21gCm3_D9kOpiGiy)
+
 (3) [Discrete Time, First Person Shooters](https://youtu.be/zwT6Cp5di8U?si=DloBv5EKr_M7S920)
+
 (4) [Sports, Reprogramming Your Mind](https://youtu.be/GcKfYVQfP9s?si=A-X7ECcb56rjx0Hg)
 
 Python syntax: [w3schools.com](https://www.w3schools.com/python/python_syntax.asp)
