@@ -49,7 +49,6 @@ Circuits:
 -	Equipment (advanced, dangerous, proceed with professional guidance): [Test Equipment | Multimeters | Oscilloscopes | Function Generators | Circuit Specialists](https://www.circuitspecialists.com/test-equipment)
 
 
-
 Ken Sheriff's Blog: [Reverse-engineering the surprisingly advanced ALU of the 8008 microprocessor](https://www.righto.com/2016/12/die-photos-and-analysis-of_24.html)
 
 RISC-V Flyer: [Codasip_RISC-V-Processors_flyer_EN.pdf](https://codasip.com/wp-content/uploads/2022/02/Codasip_RISC-V-Processors_flyer_EN.pdf)
