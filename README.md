@@ -63,7 +63,7 @@ Raspberry Pi: [Raspberry Pi Learning Resources (github.com)](https://github.com/
 
 RollerCoaster Tycoon: [The Most Impressive Game Ever Developed (youtube.com)](https://www.youtube.com/watch?v=expgMekxlvU)
 
-game profiles -
+Profiles -
 
 R6: https://r6.tracker.network/r6siege/profile/ubi/oakwizard/overview
 
