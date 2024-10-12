@@ -69,6 +69,6 @@ R6: https://r6.tracker.network/r6siege/profile/ubi/oakwizard/overview
 
 CS2: https://csstats.gg/player/76561198367542022
 
-Osu: https://osu.ppy.sh/users/26764864/osu
+osu!: https://osu.ppy.sh/users/26764864/osu
 
 Steam: https://steamcommunity.com/profiles/76561198367542022/
