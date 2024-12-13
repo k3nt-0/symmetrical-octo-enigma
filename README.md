@@ -62,11 +62,3 @@ Cadence Virtuoso: [Virtuoso Layout Suite | Cadence](https://www.cadence.com/en_U
 Raspberry Pi: [Raspberry Pi Learning Resources (github.com)](https://github.com/RaspberryPiLearning)
 
 RollerCoaster Tycoon: [The Most Impressive Game Ever Developed (youtube.com)](https://www.youtube.com/watch?v=expgMekxlvU)
-
-fps stats
-
-https://r6.tracker.network/r6siege/profile/ubi/oakwizard/overview
-
-https://csstats.gg/player/76561198367542022
-
-https://steamcommunity.com/profiles/76561198367542022/
